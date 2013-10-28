@@ -15,4 +15,4 @@ set directory=~/vimtmp,.
 syntax on
 filetype indent plugin on
 set tags=./tags;../tags;../../tags
-colorscheme github
+colorscheme 256-grayvim
