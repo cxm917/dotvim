@@ -9,6 +9,7 @@ set number
 set ignorecase
 set backupdir=~/vimtmp,.
 set directory=~/vimtmp,.
+set ruler
 syntax on
 filetype indent plugin on
 set tags=./tags;../tags;../../tags
